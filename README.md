@@ -30,7 +30,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application that ut
 2. Navigate to the project directory:
 
    ```bash
-   cd crud-socketio
+   cd websockets
 
    ```
 
